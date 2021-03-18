@@ -2,7 +2,7 @@ name: Deploy HTML Flies AppService - CMST385
 on: 
  push:
   branches:
-  -name:
+  -main
 jobs: 
    build-and-deploy:
     runs-on: windows-latest
@@ -12,5 +12,5 @@ jobs:
       uses: azure/webapps-deploy@v1
       with:
         app-name: 'cmst385-sakobundu'
-slot-name: 'production'
+        slot-name: 'production'
         publish-profile: ${{ secrets.AppServiceCMST385 }}
