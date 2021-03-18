@@ -2,12 +2,12 @@ name: Deploy HTML Flies AppService - CMST385
 on: 
  push:
   branches:
-    -main
+   - master
 jobs: 
    build-and-deploy:
     runs-on: windows-latest
      steps:
-     -uses: actions/checkout@main
+     -uses: actions/checkout@master
      -name:  Deploy to Azure Web App
       uses: azure/webapps-deploy@v1
       with:
