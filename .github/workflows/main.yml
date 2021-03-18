@@ -7,7 +7,7 @@ jobs:
    build-and-deploy:
     runs-on: windows-latest
      steps:
-     -uses: actions/checkout@master
+     -uses: actions/checkout@main
      -name:  Deploy to Azure Web App
       uses: azure/webapps-deploy@v1
       with:
