@@ -2,7 +2,7 @@ name: Deploy HTML Flies AppService - CMST385
 on: 
  push:
   branches:
-	-name
+  -name:
 jobs: 
    build-and-deploy:
     runs-on: windows-latest
