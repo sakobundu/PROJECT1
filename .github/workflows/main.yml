@@ -1,16 +1,32 @@
-name: Deploy HTML Flies AppService - CMST385
-on: 
- push:
-  branches:
-   - master
-jobs: 
-   build-and-deploy:
+name: Deploy HTML Files to AppService - CMST385
+on:
+
+  push:
+
+    branches:
+
+     - master
+
+jobs:
+
+  build-and-deploy:
+
     runs-on: windows-latest
+
      steps:
-     -uses: actions/checkout@master
-     -name:  Deploy to Azure Web App
-      uses:azure/webapps-deploy@v1
-     with:
-        app-name: 'cmst385-sakobundu'
+
+    - uses: actions/checkout@master
+
+    - name: Deploy to Azure Web App
+
+      uses: azure/webapps-deploy@v1
+
+      with:
+
+
+        app-name: 'cmst385-jsmith9999'
+
         slot-name: 'production'
+
+
         publish-profile: ${{ secrets.AppServiceCMST385 }}
