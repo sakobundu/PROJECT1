@@ -24,7 +24,7 @@ jobs:
       with:
 
 
-        app-name: 'cmst385-jsmith9999'
+        app-name: 'cmst385-sakobundu'
 
         slot-name: 'production'
 
