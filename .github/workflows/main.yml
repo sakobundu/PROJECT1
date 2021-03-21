@@ -21,9 +21,9 @@ jobs:
       with:
 
 
-        app-name: 'cmst385-sakobundu'
+        app-name: cmst385-sakobundu
 
-        slot-name: 'production'
+        slot-name: production
 
 
         publish-profile: ${{ secrets.AppServiceCMST385 }}
