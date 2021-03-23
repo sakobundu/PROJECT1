@@ -11,7 +11,7 @@ jobs:
     - name: Deploy to Azure Web App
       uses: azure/webapps-deploy@v1
       with:
-        app-name: cmst385-sakobundu
+        app-name: cmst385-'sakobundu'
         slot-name: production
         publish-profile: ${{secrets.AppServiceCMST385}}
 
