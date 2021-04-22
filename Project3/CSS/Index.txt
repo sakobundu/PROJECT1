@@ -2,15 +2,18 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+	<style>
+    h1 { color: Peru; }
+	</style>
     <meta charset="UTF-8">
 	<link rel="stylesheet" href="style.css">
+	 <title>J.Cole</title>
 </head>
+<body style= "background-color:LemonChiffon;">
 
 
-
-	
-<body>	
-		<nav>	
+		
+        <nav>	
 		|<a href="index.html"> Home</a> |
 		|<a href="music.html"> Music </a> |
 		|<a href="news.html"> News </a> |
@@ -22,7 +25,7 @@
 <h4> Born: January 28, 1985.</h4>
 <h4> Debut: 2007 to Present. </h4>
 
-<img src="https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTQ3Mzg3MjY0ODg2OTA4NTk5/j_cole_photo_by_isaac_brekken_wireimage_getty_503069628.jpg" alt height= 400px width=400px/>
+<img src="https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTQ3Mzg3MjY0ODg2OTA4NTk5/j_cole_photo_by_isaac_brekken_wireimage_getty_503069628.jpg" alt height= "500" width="450">
 
 
 
@@ -42,15 +45,12 @@ His debut mixtape, The Come Up, also came out in 2007. It was largely self-produ
 
 	<p style="font-family:verdana"><p style="font-size:17px">Ironically, Cole had attempted to give Jay Z a copy himself, after waiting outside a studio to meet his idol for three hours — only to be rebuffed with the line “Man, I don't want that shit.” But Pitts had Jay Z's ear, and the mogul was impressed with what he heard. Cole signed to Roc Nation and started to appear as a guest on tracks by Wale, Jay Z and Talib Kweli.</p>
 
-<body style="background-color:LemonChiffon;"></body>
-</a>
+
 	
 
-<li>  <a href=https://www.biography.com/musician/j-cole/> Background Article Source </a> </li>
-     <style>
+ <a href= https://www.biography.com/musician/j-cole/> Background Article Source </a>
 
-h1 {
-  color:Peru;
-}
- 
+     
+
+	</body>
 </html>
