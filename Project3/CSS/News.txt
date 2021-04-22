@@ -1,13 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+	<style>
+    h1 { color: MidnightBlue; }
+	</style>
     <meta charset="UTF-8">
 	<link rel="stylesheet" href="style.css">
+	 <title>News</title>
 </head>
-<body>
+<body style= "background-color:DarkKhaki;">
 
-	
-<body style="background-color:DarkKhaki;"></body>	
 		<nav>	
 		| <a href="index.html"> Home </a> |
 		| <a href="music.html"> Music </a> |
@@ -54,8 +56,6 @@
 
 <li>  <a href=https://www.gq-magazine.co.uk/culture/article/enny-interview-2021/> Article Source </a> </li>
 <li>  <a href=https://www.gq-magazine.co.uk//> WebPage </a> </li>
-   <style>
-
-h1 {
-  color:MidnightBlue;
-}
+ 
+	</body>
+</html>
