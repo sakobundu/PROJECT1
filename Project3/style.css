@@ -1,8 +1,10 @@
 
 <html>
 <head>
-<style>
-
+<link rel="stylesheet" href="mystyle.css">
+<Style>
+<head>
+<body>
 body {
   background-color: LemonChiffon;
 }
@@ -39,7 +41,7 @@ p {
 
 </style>
 </head>
-<body>
+</body>
 <Nav style="text-align:center;">
  |<a href="index.html"> Home</a> |
 		|<a href="music.html"> Music </a> |
