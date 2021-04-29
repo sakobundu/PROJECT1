@@ -1,6 +1,7 @@
-
+<!DOCTYPE html>
+<html lang="en">
 <head>
-<title> </title>
+<title></title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="style.css">
 <style>
@@ -101,34 +102,34 @@ body {
 </head>
 <body>
 
-<div class="header">
-  <h1> </h1>
+<div class="header;">
+  <h1></h1>
 </div>
 
-<div class="topnav">
- <a href="index.html"> </a>
-  <a href="music.html"> </a>
-  <a href="news.html"> </a>
+<div class="topnav;">
+ <a href="index.html;"></a>
+  <a href="music.html;"></a>
+  <a href="news.html;"></a>
 </div>
 
-<div class="header">
-<h2> </h2>
+<div class="header;">
+<h2></h2>
 </div>
 <div>
-<p> </p>
+<p></p>
 </div>
 <div>
-<img src="" alt="J.cole" style="width:150px">
+<img src="" alt="J.cole" style="width:150px;">
 </div>
 
-<div class="footer">
-  <p> </p>
+<div class="footer;">
+  <p></p>
 </div>
 </body>
 
 
 <head>
-<title> </title>
+<title>text</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="style.css">
 <style>
@@ -219,7 +220,7 @@ body {
   color: black;
 }
 ul{
-  list-style-position: inside;
+  list-style-position: circle;
 }
 .footer {
    position: fixed;
@@ -233,49 +234,49 @@ ul{
 </style>
 </head>
 <body>
- 
+
 <div class="header">
-  <h1> </h1>
+  <h1></h1>
 </div>
 <div class="topnav">
- <a href="index.html"> </a>
-  <a href="music.html"> </a>
-  <a href="news.html"> </a>
+ <a href="index.html"></a>
+  <a href="music.html"></a>
+  <a href="news.html"></a>
 </div>
 <div class="header">
-<h2> </h2>
+<h2></h2>
 </div>
 <h3> </h3>
 <div>
-<img src="" alt="Cole World: The Sideline Story" style="width:150px">
+<img src="" alt="Cole World: The Sideline Story" style="width:150px;">
 <div>
-<p> </p>
+<p></p>
 </div>
 <div>
-<h3> </h3>
+<h3></h3>
 </div>
 <div>
 <ul>
-  <li> </li>
-  <li> </li>
-  <li> </li>
-  <li> </li>
-  <lih> </li>
-  <li> </li>
-  <li> </li>
-  <li> </li>
-  <li> </li>
-  <li> </li>
-  <li> </li>
-  <li> </li>
-  <li> </li>
-  <li> </li>
-  <li> </li>
-  <li> </li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
 </ul>
 </div>
 <div> 	
-  <cite> <a href="http://www.discogs.com/J-Cole-Cole-World-The-Sideline-Story/master/527930"> </a> </cite>
+  <cite><a href="http://www.discogs.com/J-Cole-Cole-World-The-Sideline-Story/master/527930"></a></cite>
 </div>
 <div>
 <h3> </h3>
@@ -287,34 +288,34 @@ ul{
 <p> </p>
 </div>
 <div>
-<h3> </h3>
+<h3></h3>
 </div>
 <div>
 <ul>
-  <li> </li>
-  <li> </li>
-  <li> </li>
-  <li> </li>
-  <lih> </li>
-  <li> </li>
-  <li> </li>
-  <li> </li>
-  <li> </li>
-  <li> </li>
-  <li> </li>
-  <li> </li>
-  <li> </li>
-  <li> </li>
-  <li> </li>
-  <li> </li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
 </ul>
 </div>
 <div>
-      <cite> <a href=""> </a> </cite>
+      <cite><a href=""></a></cite>
 </div>
 
 <div>
-  <h3> </h3>
+  <h3></h3>
   </div>
   <div>
   <img src="" alt="KOD" style="width:150px">
@@ -323,30 +324,30 @@ ul{
 <p> </p>
 </div>
 <div>
-<h3> </h3>
+<h3></h3>
 </div>
 <div>
 <ul>
-  <li> </li>
-  <li> </li>
-  <li> </li>
-  <li> </li>
-  <lih> </li>
-  <li> </li>
-  <li> </li>
-  <li> </li>
-  <li> </li>
-  <li> </li>
-  <li> </li>
-  <li> </li>
-  <li> </li>
-  <li> </li>
-  <li> </li>
-  <li> </li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
 </ul>
 </div>
 <div>
-      <cite> <a href="https://www.discogs.com/J-Cole-KOD/master/1351392"> </a> </cite>
+      <cite><a href="https://www.discogs.com/J-Cole-KOD/master/1351392"></a></cite>
 </div>
 <div class="footer">
   <p></p>
@@ -356,7 +357,7 @@ ul{
 
 
 <head>
-<title> </title>
+<title></title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="style.css">
 <style>
@@ -462,20 +463,20 @@ body {
 <body>
 
 <div class="header">
-  <h1> </h1>
+  <h1></h1>
 </div>
 
 <div class="topnav">
- <a href="index.html"> </a>
-  <a href="music.html"> </a>
-  <a href="news.html"> </a>
+ <a href="index.html"></a>
+  <a href="music.html"></a>
+  <a href="news.html"></a>
 </div>
 <div>
 </div>
-<h2> </h2>
+<h2></h2>
 </div>
 <div>
-<h4> </h4>
+<h4></h4>
 </div>
 <img src=""  alt="RS-Dreamer Proto Sneaker" style="width:150px">
 </div>
@@ -483,21 +484,21 @@ body {
 <p> </p>
 </div>
 <div>
-<cite> <a href=""> </a> </cite>
+<cite><a href=""></a></cite>
 </div>
 <div>
-<h2> </h2>
+<h2></h2>
 </div>
 <div>
-<h4> </h4>
+<h4></h4>
 </div>
 <div>
 <img src=""  alt="Enny" style="width:150px">
 </div>
 <div>
-<cite> <a href=""> </a> </cite>
+<cite><a href=""></a></cite>
 </div>
 <div class="footer">
-  <p> </p>
+  <p></p>
 </div>
 </body>
