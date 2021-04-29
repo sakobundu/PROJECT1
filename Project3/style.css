@@ -1,5 +1,4 @@
 
-<html lang="en">
 <head>
 <title>Home</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -106,7 +105,8 @@ body {
   <h1>Home</h1>
 </div>
 
-<div class="topnav">
+<div>
+class="topnav">
  <a href="index.html">Home</a>
   <a href="music.html">Music</a>
   <a href="news.html">News</a>
@@ -126,10 +126,10 @@ body {
   <p>All righths reserved ©2021, contact: SAKOBUNDU@student.umgc.edu</p>
 </div>
 </body>
-</html>
 
 
-<html lang="en">
+
+
 <head>
 <title>Music</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -237,7 +237,8 @@ ul{
 </head>
 <body>
 
-<div class="header">
+<div>
+class="header">
   <h1>Music</h1>
 </div>
 <div class="topnav">
@@ -357,9 +358,9 @@ ul{
   <p>All righths reserved ©2021, contact: SAKOBUNDU@student.umgc.edu</p>
   </d>
 </body>
-</html>
 
-<html lang="en">
+
+
 <head>
 <title>Home</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -466,11 +467,13 @@ body {
 </head>
 <body>
 
-<div class="header">
+<div>
+class="header">
   <h1>News</h1>
 </div>
 
-<div class="topnav">
+<div>
+class="topnav">
  <a href="index.html">Home</a>
   <a href="music.html">Music</a>
   <a href="news.html">News</a>
@@ -510,4 +513,4 @@ body {
   <p>All righths reserved ©2021, contact: SAKOBUNDU@student.umgc.edu</p>
 </div>
 </body>
-</html>
+
