@@ -1,20 +1,14 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<title></title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
+
 <link rel="stylesheet" href="style.css">
 <style>
-
-body {
-  background-color: LemonChiffon;
-}
-
 img {
   border: 1px solid #ddd;
   border-radius: 4px;
   padding: 5px;
   width: 150px;
+}
+body {
+  background-color: LemonChiffon;
 }
 
 h1 {
@@ -119,7 +113,7 @@ body {
 <p></p>
 </div>
 <div>
-<img src="" alt="J.cole" style="width:150px;">
+<img src= alt="J.cole" style="width:150px;">
 </div>
 
 <div class="footer;">
@@ -248,7 +242,7 @@ ul{
 </div>
 <h3> </h3>
 <div>
-<img src="" alt="Cole World: The Sideline Story" style="width:150px;">
+<img src= alt="Cole World: The Sideline Story" style="width:150px;">
 <div>
 <p></p>
 </div>
