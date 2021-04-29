@@ -1,10 +1,10 @@
-
+<html>
 <head>
-<title>Home</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
 <link rel="stylesheet" href="style.css">
 <style>
-
+* {box-sizing: border-box;}
 body {
   background-color: LemonChiffon;
 }
@@ -79,6 +79,7 @@ body {
   text-align: center;
   padding: 10px 40px;
   text-decoration: none;
+  font-size: 20px;
 }
 
 /* Change color on hover */
@@ -129,11 +130,13 @@ body {
 
 
 
+<html>
 <head>
-<title>Music</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
 <link rel="stylesheet" href="style.css">
 <style>
+* {box-sizing: border-box;}
 
 img {
   border: 1px solid #ddd;
@@ -213,6 +216,7 @@ body {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+  font-size: 20px;
 }
 
 /* Change color on hover */
@@ -360,11 +364,13 @@ ul{
 
 
 
+<html>
 <head>
-<title>News</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
 <link rel="stylesheet" href="style.css">
 <style>
+* {box-sizing: border-box;}
 
 body {
   background-color: DarkKhaki;
@@ -444,6 +450,7 @@ body {
   text-align: center;
   padding: 10px 40px;
   text-decoration: none;
+  font-size: 20px;
 }
 
 /* Change color on hover */
