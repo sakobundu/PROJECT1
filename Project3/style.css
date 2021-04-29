@@ -1,10 +1,11 @@
 
+<html lang="en">
+<head>
+<title></title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
 <link rel="stylesheet" href="style.css">
 <style>
-<body>
-* {box-sizing: border-box;}
+
 body {
   background-color: LemonChiffon;
 }
@@ -73,13 +74,12 @@ body {
 
 /* Style the topnav links */
 .topnav a {
-  float: left;
+  float: center;
   display: inline-block;
   color: #f2f2f2;
   text-align: center;
   padding: 10px 40px;
   text-decoration: none;
-  font-size: 20px;
 }
 
 /* Change color on hover */
@@ -100,42 +100,41 @@ body {
 
 </style>
 </head>
-</body>
+<body>
 
-
+<div class="header">
+  <h1></h1>
+</div>
 
 <div class="topnav">
  <a href="index.html">Home</a>
   <a href="music.html">Music</a>
   <a href="news.html">News</a>
 </div>
+
 <div class="header">
-  <h1>Home</h1>
-</div>
-<div class="header">
-<h2>Artist Background:</h2>
+<h2></h2>
 </div>
 <div>
 <p></p>
 </div>
 <div>
-<img src="https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTQ3Mzg3MjY0ODg2OTA4NTk5/j_cole_photo_by_isaac_brekken_wireimage_getty_503069628.jpg" alt="Paris" style="width:150px">
+<img src="" alt="J.cole" style="width:150px">
 </div>
 
 <div class="footer">
-  <p>All righths reserved ©2021, contact: SAKOBUNDU@student.umgc.edu</p>
+  <p></p>
 </div>
 </body>
+</html>
 
 
-
+<html lang="en">
 <head>
+<title></title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
 <link rel="stylesheet" href="style.css">
 <style>
-<body>
-* {box-sizing: border-box;}
 
 img {
   border: 1px solid #ddd;
@@ -215,7 +214,6 @@ body {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  font-size: 20px;
 }
 
 /* Change color on hover */
@@ -237,24 +235,27 @@ ul{
 }
 </style>
 </head>
-</body>
-
-
+<body>
 
 <div class="header">
-  <h1>Music</h1>
+  <h1></h1>
+</div>
+<div class="topnav">
+ <a href="index.html">Home</a>
+  <a href="music.html">Music</a>
+  <a href="news.html">News</a>
 </div>
 <div class="header">
-<h2>Three Album Choices:</h2>
+<h2></h2>
 </div>
-<h3>"Cole World: The Sideline Story" </h3>
+<h3> </h3>
 <div>
-<img src="https://img.discogs.com/T5edvIPz5E6FMCc9QKAXWgjTrt0=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3131267-1317214394.jpeg.jpg" alt="Cole World: The Sideline Story" style="width:150px">
+<img src="" alt="Cole World: The Sideline Story" style="width:150px">
 <div>
 <p></p>
 </div>
 <div>
-<h3>Tracklist:</h3>
+<h3></h3>
 </div>
 <div>
 <ul>
@@ -277,19 +278,19 @@ ul{
 </ul>
 </div>
 <div> 	
-  <cite><a href="http://www.discogs.com/J-Cole-Cole-World-The-Sideline-Story/master/527930">Cole World: The Sideline Story</a></cite>
+  <cite><a href="http://www.discogs.com/J-Cole-Cole-World-The-Sideline-Story/master/527930"></a></cite>
 </div>
 <div>
-<h3>"Born Sinner" </h3>
+<h3> </h3>
 </div>
 <div>
-<img src="https://img.discogs.com/PUxFx_3zkexaE0ORsj5lo2fVGqI=/fit-in/566x563/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5439359-1393382697-9401.png.jpg" alt="Born Sinner" style="width:150px">
+<img src="" alt="Born Sinner" style="width:150px">
 </div>
 <div>
 <p> </p>
 </div>
 <div>
-<h3>Tracklist:</h3>
+<h3></h3>
 </div>
 <div>
 <ul>
@@ -312,22 +313,20 @@ ul{
 </ul>
 </div>
 <div>
-      <cite><a href="https://www.discogs.com/J-Cole-Born-Sinner/master/626743
-
-">Born Sinner</a></cite>
+      <cite><a href=""></a></cite>
 </div>
 
 <div>
-  <h3> "KOD"</h3>
+  <h3></h3>
   </div>
   <div>
-  <img src="https://img.discogs.com/0ZJ2_v6ZR1eKUpJpV2_Q2I_ixyU=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11893030-1524253541-7604.jpeg.jpg" alt="KOD" style="width:150px">
+  <img src="" alt="KOD" style="width:150px">
   </div>
   <div>
 <p> </p>
 </div>
 <div>
-<h3>Tracklist:</h3>
+<h3></h3>
 </div>
 <div>
 <ul>
@@ -350,21 +349,20 @@ ul{
 </ul>
 </div>
 <div>
-      <cite><a href="https://www.discogs.com/J-Cole-KOD/master/1351392">KOD</a></cite>
+      <cite><a href="https://www.discogs.com/J-Cole-KOD/master/1351392"></a></cite>
 </div>
 <div class="footer">
-  <p>All righths reserved ©2021, contact: SAKOBUNDU@student.umgc.edu</p>
-  </div>
+  <p></p>
+  </d>
 </body>
+</html>
 
-
+<html lang="en">
 <head>
+<title></title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
 <link rel="stylesheet" href="style.css">
 <style>
-<body>
-* {box-sizing: border-box;}
 
 body {
   background-color: DarkKhaki;
@@ -438,13 +436,12 @@ body {
 
 /* Style the topnav links */
 .topnav a {
-  float: left;
+  float: center;
   display: inline-block;
   color: #f2f2f2;
   text-align: center;
   padding: 10px 40px;
   text-decoration: none;
-  font-size: 20px;
 }
 
 /* Change color on hover */
@@ -465,39 +462,46 @@ body {
 
 </style>
 </head>
-</body>
-
+<body>
 
 <div class="header">
   <h1>News</h1>
 </div>
+
+<div class="topnav">
+ <a href="index.html">Home</a>
+  <a href="music.html">Music</a>
+  <a href="news.html">News</a>
+</div>
 <div>
 </div>
-<h2>J.cole & Puma Hoops Team Up for RS-Dreamer Proto Sneaker.</h2>
+<h2></h2>
 </div>
 <div>
-<h4>By Rania Aniftos,
-3/29/2021.</h4>
+<h4></h4>
 </div>
-<img src="https://static.billboard.com/files/2021/03/puma-j-cole-RS-DREAMER-PROTO-pair-1548-1617047373-compressed.jpg"  alt="RS-Dreamer Proto Sneaker" style="width:150px">
+<img src=""  alt="RS-Dreamer Proto Sneaker" style="width:150px">
 </div>
 <div>
 <p> </p>
 </div>
-
 <div>
-<h2>Enny on being starstruck: ‘I froze watching J Cole’.</h2>
+<cite><a href=""></a></cite>
 </div>
 <div>
-<h4>By Olive Pometsey,
-2 April 2021</h4>
+<h2></h2>
 </div>
 <div>
-<img src="https://media.gq-magazine.co.uk/photos/605b57d414e0d3a87405776c/16:9/w_720%2cc_limit/23112020_Enny_HP.jpg"  alt="Enny" style="width:150px">
+<h4></h4>
 </div>
-
+<div>
+<img src=""  alt="Enny" style="width:150px">
+</div>
+<div>
+<cite><a href=""></a></cite>
+</div>
 <div class="footer">
-  <p>All righths reserved ©2021, contact: SAKOBUNDU@student.umgc.edu</p>
+  <p></p>
 </div>
 </body>
-
+</html>
