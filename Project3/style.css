@@ -101,16 +101,16 @@ body {
 </head>
 <body>
 
-<div class="header">
-  <h1>Home</h1>
-</div>
+
 
 <div class="topnav">
  <a href="index.html">Home</a>
   <a href="music.html">Music</a>
   <a href="news.html">News</a>
 </div>
-
+<div class="header">
+  <h1>Home</h1>
+</div>
 <div class="header">
 <h2>Artist Background:</h2>
 </div>
@@ -236,13 +236,14 @@ ul{
 </head>
 <body>
 
-<div class="header">
-  <h1>Music</h1>
-</div>
+
 <div class="topnav">
  <a href="index.html">Home</a>
   <a href="music.html">Music</a>
   <a href="news.html">News</a>
+</div>
+<div class="header">
+  <h1>Music</h1>
 </div>
 <div class="header">
 <h2>Three Album Choices:</h2>
@@ -465,14 +466,15 @@ body {
 </head>
 <body>
 
-<div class="header">
-  <h1>News</h1>
-</div>
 
 <div class="topnav">
  <a href="index.html">Home</a>
   <a href="music.html">Music</a>
   <a href="news.html">News</a>
+</div>
+
+<div class="header">
+  <h1>News</h1>
 </div>
 <div>
 </div>
