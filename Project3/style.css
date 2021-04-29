@@ -1,11 +1,8 @@
-<!doctype html>
-
-<html lang="en">
-
-  <head>
-
-    <meta charset="utf-8">
+<head>
+<title> </title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="style.css">
+<body>
 <style>
 
 body {
@@ -102,7 +99,7 @@ body {
 
 </style>
 </head>
-<body>
+</body>
 
 <div class="header">
   <h1> </h1>
@@ -127,14 +124,15 @@ body {
 <div class="footer">
   <p> </p>
 </div>
-</body>
 
 
 <head>
 <title> </title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="style.css">
+<body>
 <style>
+
 
 img {
   border: 1px solid #ddd;
@@ -193,12 +191,6 @@ body {
   margin: 0;
 }
 
-ul {
-  list-style-type: sqaure;
-  margin: 0;
-  padding: 0;
-}
-
 /* Style the header */
 .header {
   background-color: #f1f1f1;
@@ -228,6 +220,11 @@ ul {
   color: black;
 }
 
+ul {
+  list-style-type: circle;
+  margin: 0;
+  padding: 0;
+}
 .footer {
    position: fixed;
    left: 0px;
@@ -239,7 +236,7 @@ ul {
 }
 </style>
 </head>
-<body>
+</body>
  
 <div class="header">
   <h1> </h1>
@@ -263,7 +260,22 @@ ul {
 </div>
 <div>
 <ul>
-  
+  <li> </li>
+  <li> </li>
+  <li> </li>
+  <li> </li>
+  <lih> </li>
+  <li> </li>
+  <li> </li>
+  <li> </li>
+  <li> </li>
+  <li> </li>
+  <li> </li>
+  <li> </li>
+  <li> </li>
+  <li> </li>
+  <li> </li>
+  <li> </li>
 </ul>
 </div>
 <div> 	
@@ -283,7 +295,22 @@ ul {
 </div>
 <div>
 <ul>
-  
+  <li> </li>
+  <li> </li>
+  <li> </li>
+  <li> </li>
+  <lih> </li>
+  <li> </li>
+  <li> </li>
+  <li> </li>
+  <li> </li>
+  <li> </li>
+  <li> </li>
+  <li> </li>
+  <li> </li>
+  <li> </li>
+  <li> </li>
+  <li> </li>
 </ul>
 </div>
 <div>
@@ -304,7 +331,22 @@ ul {
 </div>
 <div>
 <ul>
-  
+  <li> </li>
+  <li> </li>
+  <li> </li>
+  <li> </li>
+  <lih> </li>
+  <li> </li>
+  <li> </li>
+  <li> </li>
+  <li> </li>
+  <li> </li>
+  <li> </li>
+  <li> </li>
+  <li> </li>
+  <li> </li>
+  <li> </li>
+  <li> </li>
 </ul>
 </div>
 <div>
@@ -313,7 +355,7 @@ ul {
 <div class="footer">
   <p></p>
   </d>
-</body>
+
 
 
 
@@ -321,6 +363,7 @@ ul {
 <title> </title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="style.css">
+<body>
 <style>
 
 body {
@@ -421,7 +464,7 @@ body {
 
 </style>
 </head>
-<body>
+</body>
 
 <div class="header">
   <h1> </h1>
@@ -462,4 +505,3 @@ body {
 <div class="footer">
   <p> </p>
 </div>
-</body>
