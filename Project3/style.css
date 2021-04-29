@@ -1,9 +1,10 @@
-
+<html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 <link rel="stylesheet" href="style.css">
 <style>
+<body>
 * {box-sizing: border-box;}
 body {
   background-color: LemonChiffon;
@@ -100,7 +101,7 @@ body {
 
 </style>
 </head>
-<body>
+</body>
 
 
 
@@ -136,6 +137,7 @@ body {
 <style>
 <link rel="stylesheet" href="style.css">
 <style>
+<body>
 * {box-sizing: border-box;}
 
 img {
@@ -238,7 +240,7 @@ ul{
 }
 </style>
 </head>
-<body>
+</body>
 
 
 <div class="topnav">
@@ -370,6 +372,7 @@ ul{
 <style>
 <link rel="stylesheet" href="style.css">
 <style>
+<body>
 * {box-sizing: border-box;}
 
 body {
@@ -471,7 +474,7 @@ body {
 
 </style>
 </head>
-<body>
+</body>
 
 
 <div class="topnav">
