@@ -1,4 +1,4 @@
-
+<html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -243,11 +243,7 @@ ul{
 </body>
 
 
-<div class="topnav">
- <a href="index.html">Home</a>
-  <a href="music.html">Music</a>
-  <a href="news.html">News</a>
-</div>
+
 <div class="header">
   <h1>Music</h1>
 </div>
@@ -476,12 +472,6 @@ body {
 </head>
 </body>
 
-
-<div class="topnav">
- <a href="index.html">Home</a>
-  <a href="music.html">Music</a>
-  <a href="news.html">News</a>
-</div>
 
 <div class="header">
   <h1>News</h1>
