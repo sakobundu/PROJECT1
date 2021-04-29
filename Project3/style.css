@@ -1,9 +1,20 @@
 
+<html lang="en">
 <head>
-<Style>
-<head>
+<title>Home</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="style.css">
+<style>
+
 body {
   background-color: LemonChiffon;
+}
+
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
 }
 
 h1 {
@@ -28,48 +39,109 @@ h2 {
 
 
 p {
-  text-align: center;
+  text-align: left;
+  
+}
+body {
+  color: black;
 }
 
 p {
   font-family: verdana;
-  font-size: 13px;
+  font-size: 12px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+/* Style the header */
+.header {
+  background-color: #f1f1f1;
+  padding: 1px;
+  text-align: center;
+}
+
+/* Style the top navigation bar */
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+/* Style the topnav links */
+.topnav a {
+  float: center;
+  display: inline-block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 10px 40px;
+  text-decoration: none;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.footer {
+   position: fixed;
+   left: 0px;
+   bottom: 0px;
+   width: 100%;
+   background-color: brown;
+   color: white;
+   text-align: center;
 }
 
 </style>
 </head>
 <body>
-<Nav style="text-align:center;">
- |<a href="index.html"> Home</a> |
-		|<a href="music.html"> Music </a> |
-		|<a href="news.html"> News </a> |
-</Nav>
 
-<div>
-<h1>Home</h1>
+<div class="header">
+  <h1>Home</h1>
+</div>
+
+<div class="topnav">
+ <a href="index.html">Home</a>
+  <a href="music.html">Music</a>
+  <a href="news.html">News</a>
+</div>
+
+<div class="header">
 <h2>Artist Background:</h2>
-
-<p> </p>
-
 </div>
-
 <div>
-
-<img src="https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTQ3Mzg3MjY0ODg2OTA4NTk5/j_cole_photo_by_isaac_brekken_wireimage_getty_503069628.jpg" alt height= "250" width="220"> 
+<p></p>
 </div>
-<footer>
-  <p>Author: Sunday Akobundu<br>
-  <a href="mailto:SAKOBUNDU@student.umgc.edu">SAKOBUNDU@student.umgc.edu</a></p>
-</footer>
+<div>
+<img src="https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTQ3Mzg3MjY0ODg2OTA4NTk5/j_cole_photo_by_isaac_brekken_wireimage_getty_503069628.jpg" alt="Paris" style="width:150px">
+</div>
+
+<div class="footer">
+  <p>All righths reserved ©2021, contact: SAKOBUNDU@student.umgc.edu</p>
+</div>
 </body>
 </html>
 
 
+<html lang="en">
+<head>
+<title>Music</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="style.css">
+<style>
 
-<html>
-<head>
-<Style>
-<head>
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
 
 body {
   background-color: BlanchedAlmond;
@@ -100,147 +172,209 @@ h3 {
   font-size: 13px;
 }
 
+h3 {
+  color:DarkSlateblue ;
+  text-align: left;
+}
+
 p {
-  text-align: center;
+  text-align: left;
 }
 
 p {
   font-family: verdana;
   font-size: 12px;
 }
+* {
+  box-sizing: border-box;
+}
 
+body {
+  margin: 0;
+}
+
+/* Style the header */
+.header {
+  background-color: #f1f1f1;
+  padding: 1px;
+  text-align: center;
+}
+
+/* Style the top navigation bar */
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+/* Style the topnav links */
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+ul{
+  list-style-position: inside;
+}
+.footer {
+   position: fixed;
+   left: 0px;
+   bottom: 0px;
+   width: 100%;
+   background-color: brown;
+   color: white;
+   text-align: center;
+}
 </style>
 </head>
 <body>
-<Nav style="text-align:center;">
- |<a href="index.html"> Home</a> |
-		|<a href="music.html"> Music </a> |
-		|<a href="news.html"> News </a> |
-</Nav>
 
-<div>
-<h1>Music</h1>
+<div class="header">
+  <h1>Music</h1>
+</div>
+<div class="topnav">
+ <a href="index.html">Home</a>
+  <a href="music.html">Music</a>
+  <a href="news.html">News</a>
+</div>
+<div class="header">
 <h2>Three Album Choices:</h2>
-<h3>"Cole World: The Sideline Story" .</h3>
-
 </div>
-
+<h3>"Cole World: The Sideline Story" </h3>
 <div>
-
-<img src="https://img.discogs.com/T5edvIPz5E6FMCc9QKAXWgjTrt0=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3131267-1317214394.jpeg.jpg" alt height= "250" width="220"> 
-</div>
+<img src="https://img.discogs.com/T5edvIPz5E6FMCc9QKAXWgjTrt0=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3131267-1317214394.jpeg.jpg" alt="Cole World: The Sideline Story" style="width:150px">
 <div>
-<p> </p>
+<p></p>
 </div>
 <div>
-<h4> Tracklist:</h4>
+<h3>Tracklist:</h3>
 </div>
 <div>
-
-		<li>Intro 1:22</li> 
-		<li>Dollar And A Dream III 4:43</li> 
-		<li>Can't Get Enough 3:47</li> 
-        <li>Lights Please 3:28</li> 
-		<li>Interlude 1:39</li> 
-		<li>Sideline Story 3:58</li>
-        <li>Mr.Nice Watch 3:58</li>
-		<li>Cole World	3:04</li>
-		<li>In The Morning 3:54</li>
-        <li>Lost Ones 4:23</li> 
-		<li>Nobody's Perfect 3:10</li>
-		<li>Never Told	3:31</li> 
-        <li>Rise And Shine 4:35</li>
-		<li>God's Gift 3:32</li>
-		<li> Breakdown 4:50</li>
-        <li>Work Out 3:54</li>
-		
-        
-        </div>
-       <div> 	
+<ul>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <lih></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
+</div>
+<div> 	
   <cite><a href="http://www.discogs.com/J-Cole-Cole-World-The-Sideline-Story/master/527930">Cole World: The Sideline Story</a></cite>
 </div>
 <div>
-<h3>"Born Sinner" .</h3>
+<h3>"Born Sinner" </h3>
 </div>
 <div>
-<img src="https://img.discogs.com/PUxFx_3zkexaE0ORsj5lo2fVGqI=/fit-in/566x563/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5439359-1393382697-9401.png.jpg" alt height= "250" width="220"/>
+<img src="https://img.discogs.com/PUxFx_3zkexaE0ORsj5lo2fVGqI=/fit-in/566x563/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5439359-1393382697-9401.png.jpg" alt="Born Sinner" style="width:150px">
 </div>
 <div>
 <p> </p>
 </div>
 <div>
-<h4> Tracklist:</h4>
+<h3>Tracklist:</h3>
 </div>
 <div>
-   <ul>
-		<li>Villuminati 5:08</li> 
-		<li>Kerney Sermon (Skit) 0:46</li> 
-		<li>Land Of The Snakes 4:15</li> 
-        <li>Power Trip 4:01</li>
-		<li>Mo Money (Interlude) 1:18</li> 
-		<li>Trouble 4:18</li> 
-        <li>Runaway 5:15</li>
-		<li>She Knows 4:57</li> 
-		<li> Rich N****z 4:36</li> 
-        <li>Where's Jermaine? (Skit) 0:37</li> 
-		<li> Forbidden Fruit 4:29</li>
-		<li> Chaining Day 4:45</li> 
-        <li>Ain't That Some Sh*t (Interlude) 2:27</li> 
-		<li>Crooked Smile 4:39</li> 
-		<li>Let Nas Down 4:37</li> 
-        <li>Born Sinner 3:29</li>
-		</ul> 
-        </div>
-        <div>
-                <div>
-                <cite><a href="https://www.discogs.com/J-Cole-Born-Sinner/master/626743
+<ul>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <lih></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
+</div>
+<div>
+      <cite><a href="https://www.discogs.com/J-Cole-Born-Sinner/master/626743
 
 ">Born Sinner</a></cite>
 </div>
+
 <div>
   <h3> "KOD"</h3>
   </div>
-<div>
-<img src="https://img.discogs.com/0ZJ2_v6ZR1eKUpJpV2_Q2I_ixyU=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11893030-1524253541-7604.jpeg.jpg" alt height= "250" width="220"/>     </div>
-<div>
+  <div>
+  <img src="https://img.discogs.com/0ZJ2_v6ZR1eKUpJpV2_Q2I_ixyU=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11893030-1524253541-7604.jpeg.jpg" alt="KOD" style="width:150px">
+  </div>
+  <div>
 <p> </p>
 </div>
 <div>
-<h4> Tracklist:</h4>
+<h3>Tracklist:</h3>
 </div>
 <div>
-        <ul>
-        <li>Intro 1:47</li> 
-		<li>KOD 3:11</li> 
-		<li>Photograph 3:37</li> 
-        <li>The Cut Off 3:57</li>
-		<li>ATM 3:36</li> 
-		<li>Motiv8 2:13</li> 
-        <li>Kevin's Heart</li>
-		<li>Brackets 5:15</li> 
-		<li>Once An Addict (Interlude) 3:17</li> 
-        <li>Friends</li> 
-		<li>Window Pain (Outro) 4:46</li> 
-		<li>1985 (Intro to "The Fall Off") 3:10</li>
-        </ul>
-    </div>   
-    <div>
+<ul>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <lih></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
+</div>
+<div>
       <cite><a href="https://www.discogs.com/J-Cole-KOD/master/1351392">KOD</a></cite>
 </div>
-<footer>
-  <p>Author: Sunday Akobundu<br>
-  <a href="mailto:SAKOBUNDU@student.umgc.edu">SAKOBUNDU@student.umgc.edu</a></p>
-</footer>
+<div class="footer">
+  <p>All righths reserved ©2021, contact: SAKOBUNDU@student.umgc.edu</p>
+  </d>
 </body>
 </html>
 
-<html>
+<html lang="en">
 <head>
-<Style>
-<head>
+<title>Home</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="style.css">
+<style>
 
 body {
   background-color: DarkKhaki;
+}
+
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
 }
 
 h1 {
@@ -269,7 +403,11 @@ h3 {
 }
 
 p {
-  text-align: center;
+  text-align: left;
+  
+}
+body {
+  color: black;
 }
 
 p {
@@ -277,32 +415,82 @@ p {
   font-size: 12px;
 }
 
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+/* Style the header */
+.header {
+  background-color: #f1f1f1;
+  padding: 1px;
+  text-align: center;
+}
+
+/* Style the top navigation bar */
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+/* Style the topnav links */
+.topnav a {
+  float: center;
+  display: inline-block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 10px 40px;
+  text-decoration: none;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.footer {
+   position: fixed;
+   left: 0px;
+   bottom: 0px;
+   width: 100%;
+   background-color: grey;
+   color: white;
+   text-align: center;
+}
+
 </style>
 </head>
 <body>
-<Nav style="text-align:center;">
- |<a href="index.html"> Home</a> |
-		|<a href="music.html"> Music </a> |
-		|<a href="news.html"> News </a> |
-</Nav>
 
-<div>
-<h1>News:</h1>
-<h2>J.cole & Puma Hoops Team Up for RS-Dreamer Proto Sneaker.</h2>
-<h4>By Rania Aniftos,
-3/29/2021.</h4>
-
+<div class="header">
+  <h1>News</h1>
 </div>
 
+<div class="topnav">
+ <a href="index.html">Home</a>
+  <a href="music.html">Music</a>
+  <a href="news.html">News</a>
+</div>
 <div>
-
-<img src="https://static.billboard.com/files/2021/03/puma-j-cole-RS-DREAMER-PROTO-pair-1548-1617047373-compressed.jpg" alt="Puma's RS-DREAMER PROTO" width="460" height="345"> 
+</div>
+<h2>J.cole & Puma Hoops Team Up for RS-Dreamer Proto Sneaker.</h2>
+</div>
+<div>
+<h4>By Rania Aniftos,
+3/29/2021.</h4>
+</div>
+<img src="https://static.billboard.com/files/2021/03/puma-j-cole-RS-DREAMER-PROTO-pair-1548-1617047373-compressed.jpg"  alt="RS-Dreamer Proto Sneaker" style="width:150px">
 </div>
 <div>
 <p> </p>
 </div>
 <div>
- <a href=https://www.billboard.com/articles/news/lifestyle/9547970/j-cole-puma-hoops-rs-dreamer-proto-sneaker/> Article Source </a>
+<cite><a href="https://www.billboard.com/articles/news/lifestyle/9547970/j-cole-puma-hoops-rs-dreamer-proto-sneaker
+">Article Source</a></cite>
 </div>
 <div>
 <h2>Enny on being starstruck: ‘I froze watching J Cole’.</h2>
@@ -312,23 +500,14 @@ p {
 2 April 2021</h4>
 </div>
 <div>
-<img src="https://media.gq-magazine.co.uk/photos/605b57d414e0d3a87405776c/16:9/w_720%2cc_limit/23112020_Enny_HP.jpg" alt="Enny" width="460" height="345">
+<img src="https://media.gq-magazine.co.uk/photos/605b57d414e0d3a87405776c/16:9/w_720%2cc_limit/23112020_Enny_HP.jpg"  alt="Enny" style="width:150px">
 </div>
 <div>
-<h3> The first time you were starstruck...?</h3>
+<cite><a href="https://www.gq-magazine.co.uk/culture/article/enny-interview-2021
+">Article Source</a></cite>
 </div>
-<div>
-<p></p>
+<div class="footer">
+  <p>All righths reserved ©2021, contact: SAKOBUNDU@student.umgc.edu</p>
 </div>
-<div>
-<a href=https://www.gq-magazine.co.uk/culture/article/enny-interview-2021/> Article Source </a> 
-</div>
-		
-        
-<footer>
-  <p>Author: Sunday Akobundu<br>
-  <a href="mailto:SAKOBUNDU@student.umgc.edu">SAKOBUNDU@student.umgc.edu</a></p>
-</footer>
 </body>
-
-
+</html>
