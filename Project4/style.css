@@ -9,7 +9,11 @@ img {
   border-radius: 4px;
   padding: 5px;
   width: 150px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
+
 
 .header img {
   float: left;
