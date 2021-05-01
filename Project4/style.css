@@ -72,7 +72,7 @@ body {
   box-sizing: border-box;
 }
 .menu {
-  float: center;
+  float: left;
   width: 25%;
 }
 .menuitem {
@@ -81,7 +81,7 @@ body {
   border-bottom: 1px solid #f1f1f1;
 }
 .main {
-  float: center;
+  float: left;
   width: 60%;
   padding: 0 20px;
   overflow: hidden;
