@@ -83,11 +83,7 @@ body {
   float: left;
   width: 25%;
 }
-.menuitem {
-  padding: 8px;
-  margin-top: 7px;
-  border-bottom: 1px solid #f1f1f1;
-}
+
 .main {
   float: left;
   width: 60%;
@@ -119,7 +115,7 @@ body {
   }
 }
 .footer {
-   position: fixed;
+   position: center;
    left: 0px;
    bottom: 0px;
    width: 100%;
