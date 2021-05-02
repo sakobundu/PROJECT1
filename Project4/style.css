@@ -15,11 +15,22 @@ img {
 }
 
 
-.header img {
-  float: left;
-  width: 20px;
-  height: 20px;
-  background: #555;
+.logo_link_icon {
+    color: #000;
+    display: inline-block;
+    vertical-align: top;
+    .logo_link {
+    background-position: 0 50%;
+    background-repeat: no-repeat;
+    background-size: contain;
+    color: transparent;
+    display: block;
+    overflow: hidden;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    white-space: nowrap;
 }
 
 .topnav {
