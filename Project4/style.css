@@ -15,6 +15,8 @@ img {
 }
 
 
+
+
 body { 
 padding:60px 0 0 0:
 background-image : url(Alternative_logo.png) no-repeat top left; 
@@ -90,12 +92,7 @@ body {
   padding: 0 20px;
   overflow: hidden;
 }
-.right {
-  background-color: lightblue;
-  float: left;
-  width: 20%;
-  padding: 10px 15px;
-  margin-top: 7px;
+
 }
 
 @media only screen and (max-width:800px) {
