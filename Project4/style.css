@@ -4,6 +4,13 @@ body {
   font-family: Arial ;
 }
 
+.logo {
+    margin-top: 20px;
+}
+.header-scrolled .logo {
+    margin-top: 0;
+}
+
 img {
   border: 1px solid #ddd;
   border-radius: 4px;
