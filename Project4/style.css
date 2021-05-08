@@ -121,11 +121,7 @@ body {
   }
 }
 .footer {
-   position: left;
-   left: 0px;
+   position: fixed;
    bottom: 0px;
-   width: 100%;
-   background-color: brown;
-   color: white;
    text-align: center;
 }
