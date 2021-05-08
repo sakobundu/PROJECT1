@@ -3,6 +3,13 @@ body {
   margin: 0;
   font-family: Arial ;
 }
+body {
+  max-width: 1170px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 16px;
+  padding-right: 16px;
+}
 
 .logo {
     margin-top: 20px;
@@ -19,14 +26,6 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-}
-
-
-
-
-body { 
-padding:60px 0 0 0:
-background-image : url(Alternative_logo.png) no-repeat top left; 
 }
 
 .topnav {
