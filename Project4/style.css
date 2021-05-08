@@ -2,8 +2,9 @@
 body {
   background-color:CadetBlue;
   margin: 0;
-  font-family: Arial ;
+  font-family: Arial, sans-serif;
 }
+
 body {
   max-width: 1170px;
   margin-left: auto;
@@ -119,7 +120,7 @@ body {
   }
 }
 .footer {
-   position: center;
+   position: left;
    left: 0px;
    bottom: 0px;
    width: 100%;
