@@ -15,6 +15,22 @@ body {
 }
 
 
+   p {
+
+
+  color: #000080;
+
+
+}
+
+
+a[href] {
+
+
+  color: #00FFFF;
+
+
+}
 
 img {
   border: 1px solid #ddd;
