@@ -14,12 +14,7 @@ body {
   padding-right: 16px;
 }
 
-.logo {
-    margin-top: 20px;
-}
-.header-scrolled .logo {
-    margin-top: 0;
-}
+
 
 img {
   border: 1px solid #ddd;
@@ -57,7 +52,7 @@ img {
 }
 
 h1 {
-color: #ff9999;
+color: DarkSlateblue;
   text-align: center;
 font-family: Helvetica;
   font-size: 25px;
@@ -65,7 +60,7 @@ font-family: Helvetica;
 
 
 h2 {
-  color:#ff9999 ;
+  color:DarkSlateblue ;
   text-align: center;
   font-family: Helvetica;
   font-size: 20px;
