@@ -15,23 +15,6 @@ body {
 }
 
 
-   p {
-
-
-  color: #000080;
-
-
-}
-
-
-a[href] {
-
-
-  color: #00FFFF;
-
-
-}
-
 img {
   border: 1px solid #ddd;
   border-radius: 4px;
@@ -97,7 +80,13 @@ p {
 body {
   color: black;
 }
+a[href] {
 
+
+  color: #00FFFF;
+
+
+}
 * {
   box-sizing: border-box;
 }
